@@ -1,0 +1,72 @@
+.myname {
+    background-color: aqua;
+    display:inline-block;
+    position:absolute;
+    left:0%;
+    top:0%;
+}
+
+.contact{
+    background-color: blue;
+    display:inline-block;
+    position:absolute;
+    right:0%;
+    top:0%;
+}
+
+.proj1{
+    background-color: yellow;
+    display:inline-block;
+    position : absolute;
+    top:300px;
+    left:0%;
+
+}
+
+.proj2{
+    background-color: yellow;
+    display:inline-block;
+    position : absolute;
+    top:700px;
+    left:0%;
+
+
+}
+
+.proj3{
+    background-color: yellow;
+    display:inline-block;
+    position : absolute;
+    top:1100px;
+    left:0%;
+
+}
+
+.img1{
+    position : absolute;
+    top:300px;
+    right:0%;
+}
+
+.img2{
+    position : absolute;
+    top:700px;
+    right:0%;
+}
+
+.img3{
+    position : absolute;
+    top:1100px;
+    right:0%;
+}
+
+.phead{
+    background-color: red;
+    display: inline-block;
+    position:absolute;
+}
+.desc{
+    background-color: green;
+    display:inline-block;
+    position:absolute;
+}
